@@ -1,0 +1,33 @@
+_repo: Raggedy-Andy-Stories--13-Introducing-the-Little-Rag-Brother-of-Raggedy-Ann_17371
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gruelle, Johnny
+    alias: Gruelle, John B. (John Barton)
+    birthdate: 1880
+    deathdate: 1938
+    gutenberg_agent_id: '3936'
+    url: http://www.gutenberg.org/2009/agents/3936
+    wikipedia: http://en.wikipedia.org/wiki/Johnny_Gruelle
+description: Illustrated by the author.
+gutenberg_issued: '2005-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, American'
+- !lcsh 'Dolls -- Juvenile fiction'
+tableOfContents: How Raggedy Andy came -- The nursery dance -- The spinning wheel
+  -- The taffy pull -- The rabbit chase -- The new tin gutter -- Doctor Raggedy Andy
+  -- Raggedy Andy's smile -- The wooden horse -- Making "angels" in the snow -- The
+  singing shell.
+title: "Raggedy Andy Stories\r\nIntroducing the Little Rag Brother of Raggedy Ann"
+url: http://www.gutenberg.org/ebooks/17371
